@@ -1,5 +1,3 @@
 <?php
-echo 789;
-echo 'aaa';
-
+echo 'dev2';
 ?>
